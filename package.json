@@ -1,12 +1,12 @@
 {
-  "name": "tvmaze-api-wrapper",
-  "version": "0.0.1",
+  "name": "tvmaze-wrapper",
+  "version": "1.0.0",
   "description": "A wrapper for querying the tvmaze api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jordan Archer (nodev)",
+  "author": "Jordan Archer",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0"
